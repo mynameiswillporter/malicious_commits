@@ -19,3 +19,6 @@ print(c)    # prints 3
 c = a + b
 print(c)    # prints 2
 ```
+
+[Trojan Source](https://www.trojansource.codes/trojan-source.pdf) is a good
+research paper on the topic.
